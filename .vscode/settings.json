@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ip.h": "c",
+        "netfilter_ipv4.h": "c",
+        "kernel.h": "c",
+        "netfilter_bridge.h": "c",
+        "netfilter.h": "c",
+        "in.h": "c"
+    }
+}
